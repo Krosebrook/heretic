@@ -1,0 +1,8 @@
+{
+  "name": "Heretic - Automatic LLM Censorship Removal Studio",
+  "description": "Interactive studio for directional ablation, ARA, and Optuna-optimized decensoring of transformer language models.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
